@@ -7,4 +7,13 @@ sonarqube
 
 jenkins
 docker
-kubernetes 
+kubernetes
+
+aws
+azure
+gcp
+oracle cloud
+ibm cloud
+alibaba
+digital ocean
+
