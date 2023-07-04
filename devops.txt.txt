@@ -1,0 +1,6 @@
+Module1:
+Linux and Shell
+git and github
+maven
+nexus
+sonarqube
